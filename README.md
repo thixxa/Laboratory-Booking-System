@@ -52,7 +52,8 @@ The Laboratory Booking System is a web-based application designed to streamline 
 
 ## Screenshots
 
-_Add screenshots of your main interfaces here for better understanding._
+_![Uploading welcome.png…]()
+_
 
 
 ## Contribution
