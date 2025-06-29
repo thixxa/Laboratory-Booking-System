@@ -50,7 +50,7 @@ The Laboratory Booking System is a web-based application designed to streamline 
 ## Author
 
 - [Thisanda Prasanjana]
-- [Your GitHub Profile](https://github.com/thixxa)
+- [My GitHub Profile](https://github.com/thixxa)
 
 
 ---
