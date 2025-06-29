@@ -34,9 +34,6 @@ The Laboratory Booking System is a web-based application designed to streamline 
 3. **Create the MySQL database** (e.g., `laboratory_booking_system`).
 4. **Import the provided SQL file** (if available) using phpMyAdmin.
 5. **Update database credentials** in `config.php`:
-    ```
-    $conn = new mysqli('localhost', 'your_db_user', 'your_db_password', 'laboratory_booking_system');
-    ```
 6. **Start your local server** (Apache/MySQL).
 7. **Access the system** in your browser at `http://localhost/your-project-folder/index.php`.
 
@@ -49,20 +46,6 @@ The Laboratory Booking System is a web-based application designed to streamline 
 - **Lab TO Dashboard:** Approve/reject schedules, manage equipment.
 - **Lecture Dashboard:** View all lab schedules and student bookings.
 - **Logout:** Use the logout button to securely end your session.
-
-## Screenshots
-
-_![Uploading welcome.png…]()
-_
-
-
-## Contribution
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is for educational purposes at the Faculty of Engineering, University of Jaffna.
 
 ## Author
 
